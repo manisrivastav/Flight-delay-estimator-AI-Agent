@@ -1,0 +1,14 @@
+langgraph
+langchain
+langchain-community
+requests
+streamlit
+pydantic
+fastmcp
+osmnx
+shapely
+geopandas
+airportsdata
+langchain_groq
+langchain-huggingface
+python-dotenv
