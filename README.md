@@ -32,8 +32,8 @@ The frontend is a Streamlit app. For the full architecture, flow diagrams, and c
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repo-url>
-cd <repo-folder>
+git clone <[your-repo-url](https://github.com/manisrivastav/Flight-delay-estimator-AI-Agent.git)>
+cd <Flight-delay-estimator-AI-Agent>
 ```
 
 ### 2. Python environment setup
